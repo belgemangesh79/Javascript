@@ -54,6 +54,11 @@ obj.pqr;
 c();       // undefined
 
 
+const Man = "123"
+console.log("man");
+
+
+
 
 
   
